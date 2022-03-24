@@ -33,7 +33,7 @@ Basic syntax and functions from the Java programming language.
 ### Boilerplate
 
 
-```java
+```
 class HelloWorld{
     public static void main(String args[]){
     System.out.println("Hello World");
